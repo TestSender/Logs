@@ -1,1 +1,0 @@
-/root/serv/GRIEF/plugins/LiveLogger/all_logs.txt
